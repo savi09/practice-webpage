@@ -5,7 +5,7 @@ HTML Practice
 <html lang="en-us">
 <head>
   <meta charset="UTF-8">
-  <title>Activity 1: Basic HTML Bio</title>
+
 </head>
 
 <body>
